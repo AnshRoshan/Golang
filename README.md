@@ -1,2 +1,2 @@
 # Golang
-Learning Golang
+Learning Golang Basics
